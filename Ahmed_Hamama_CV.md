@@ -49,7 +49,7 @@ _____
 - **Project Management: The Basics for Success**, UCI Division of Continuing Education _(August 14, 2024)_
 - **Developing Innovative Ideas for New Companies**, University of Maryland _(August 18, 2024)_
 - **Financial Accounting Fundamentals**, University of Virginia Darden School of Business _(August 25, 2024)_
-
+- 
 (... other courses follow...)
 
 _____
